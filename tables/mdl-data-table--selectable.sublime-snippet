@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+mdl-data-table--selectable
+]]></content>
+  <tabTrigger>mda:s</tabTrigger>
+  <scope>text.html, text.jade, text.pug, source.css, source.scss, source.sass</scope>
+</snippet>

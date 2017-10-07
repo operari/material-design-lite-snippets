@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+mdl-layout__header--scroll
+]]></content>
+  <tabTrigger>ml:hs</tabTrigger>
+  <scope>text.html, text.jade, text.pug, source.css, source.scss, source.sass</scope>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+mdl-layout--fixed-header
+]]></content>
+  <tabTrigger>ml:fh</tabTrigger>
+  <scope>text.html, text.jade, text.pug, source.css, source.scss, source.sass</scope>
+</snippet>

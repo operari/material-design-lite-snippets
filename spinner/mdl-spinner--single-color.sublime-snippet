@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+mdl-spinner--single-color
+]]></content>
+  <tabTrigger>ms:sc</tabTrigger>
+  <scope>text.html, text.jade, text.pug, source.css, source.scss, source.sass</scope>
+</snippet>

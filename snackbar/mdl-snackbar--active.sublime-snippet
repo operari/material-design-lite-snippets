@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+mdl-snackbar--active
+]]></content>
+  <tabTrigger>mn:at</tabTrigger>
+  <scope>text.html, text.jade, text.pug, source.css, source.scss, source.sass</scope>
+</snippet>

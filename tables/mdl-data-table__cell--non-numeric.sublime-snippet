@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+mdl-data-table__cell--non-numeric
+]]></content>
+  <tabTrigger>mda:c</tabTrigger>
+  <scope>text.html, text.jade, text.pug, source.css, source.scss, source.sass</scope>
+</snippet>

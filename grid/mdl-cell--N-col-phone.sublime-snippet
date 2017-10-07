@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+mdl-cell--${1:N}-col-phone
+]]></content>
+  <tabTrigger>mc:cp</tabTrigger>
+  <scope>text.html, text.jade, text.pug, source.css, source.scss, source.sass</scope>
+</snippet>

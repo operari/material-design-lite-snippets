@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+mdl-typography--body-2-color-contrast
+]]></content>
+  <tabTrigger>mt:b2c</tabTrigger>
+  <scope>text.html, text.jade, text.pug, source.css, source.scss, source.sass</scope>
+</snippet>

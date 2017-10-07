@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+mdl-mega-footer__right-section
+]]></content>
+  <tabTrigger>mm:fr</tabTrigger>
+  <scope>text.html, text.jade, text.pug, source.css, source.scss, source.sass</scope>
+</snippet>

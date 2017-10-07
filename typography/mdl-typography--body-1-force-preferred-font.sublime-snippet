@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+mdl-typography--body-1-force-preferred-font
+]]></content>
+  <tabTrigger>mt:b1f</tabTrigger>
+  <scope>text.html, text.jade, text.pug, source.css, source.scss, source.sass</scope>
+</snippet>

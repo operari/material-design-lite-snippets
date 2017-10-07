@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+mdl-button
+]]></content>
+  <tabTrigger>mb:u</tabTrigger>
+  <scope>text.html, text.jade, text.pug, source.css, source.scss, source.sass</scope>
+</snippet>

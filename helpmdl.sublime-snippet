@@ -1,0 +1,342 @@
+<snippet>
+  <content><![CDATA[
+<!-- MDL CLASSES
+
+<!--===========================
+=            Badges            =
+============================-->
+
+ma:g - mdl-badge
+ma:nb - mdl-badge--no-background
+ma:o - mdl-badge--overlap
+ma:d - data-badge="value"
+
+/*==============================
+=            Button            =
+==============================*/
+
+mb:u - mdl-button
+mb:r - mdl-button--raised
+mb:f - mdl-button--fab
+mb:mf - mdl-button--mini-fab
+mb:i - mdl-button--icon
+mb:c - mdl-button--colored
+mb:p - mdl-button--primary
+mb:a - mdl-button--accent
+
+<!--==========================
+=            Card            =
+===========================-->
+
+mca:r - mdl-card
+mca:c - mdl-card--border
+mca:d - mdl-shadow--Ndp
+mca:t - mdl-card__title
+mca:tt - mdl-card__title-text
+mca:s - mdl-card__subtitle-text
+mca:m - mdl-card__media
+mca:st - mdl-card__supporting-text
+mca:a - mdl-card__actions
+mca:m - mdl-card__menu
+
+<!--===========================
+=            Chip             =
+============================-->
+
+mh:i - mdl-chip
+mh:c - mdl-chip--contact
+mh:t - mdl-chip__text
+mh:a - mdl-chip__action
+mh:co - mdl-chip__contact
+
+<!--=============================
+=            Dialog            =
+==============================-->
+
+md:d - mdl-dialog
+md:t - mdl-dialog__title
+md:c - mdl-dialog__content
+md:a - mdl-dialog__actions
+md:af - mdl-dialog__actions--full-width
+
+<!--============================
+=            Layout            =
+=============================-->
+
+ml:a - mdl-layout
+ml:h - mdl-layout__header
+ml:i - mdl-layout-icon
+ml:hr - mdl-layout__header-row
+ml:t - mdl-layout__title
+ml:s - mdl-layout-spacer
+ml:n - mdl-navigation
+ml:nl - mdl-navigation__link
+ml:d - mdl-layout__drawer
+ml:c - mdl-layout__content
+ml:hs - mdl-layout__header--scroll
+ml:fd - mdl-layout--fixed-drawer
+ml:fh - mdl-layout--fixed-header
+ml:nd - mdl-layout--no-drawer-button
+ml:ndd - mdl-layout--no-desktop-drawer-button
+ml:l - mdl-layout--larget-screen-only
+ml:ss - mdl-layout--small-screen-only
+ml:hw - mdl-layout__header--waterfall
+ml:hwh - mdl-layout__header--waterfall-hide-top
+ml:ht - mdl-layout__header--transparent
+ml:hs - mdl-layout__header--seamed
+ml:tb - mdl-layout__tab-bar
+ml:ta - mdl-layout__tab
+ml:tp - mdl-layout__tab-panel
+ml:tm - mdl-layout__tab-manual-switch
+ml:ft - mdl-layout--fixed-tabs
+ml:ce - mdl-layout-center
+
+<!--==========================
+=            Grid            =
+===========================-->
+
+mg:r - mdl-grid
+mg:n - mdl-grid--no-spacing
+mc:e - mdl-cell
+mc:c - mdl-cell--N-col
+mc:cd - mdl-cell--N-col-desktop
+mc:ct - mdl-cell--N-col-tablet
+mc:cp - mdl-cell--N-col-phone
+mc:o - mdl-cell--N-offset
+mc:od - mdl-cell--N-offset-desktop
+mc:ot - mdl-cell--N-offset-tablet
+mc:op - mdl-cell--N-offset-phone
+mc:or - mdl-cell--order-N
+mc:ord - mdl-cell--order-N-desktop
+mc:ort - mdl-cell--order-N-tablet
+mc:orp - mdl-cell--order-N-phone
+mc:hd - mdl-cell--hide-desktop
+mc:ht - mdl-cell--hide-tablet
+mc:hp - mdl-cell--hide-phone
+mc:s - mdl-cell--stretch
+mc:t - mdl-cell--top
+mc:m - mdl-cell--middle
+mc:b - mdl-cell--bottom
+
+<!--==========================
+=            Tabs            =
+===========================-->
+
+mta:b - mdl-tabs
+mta:tb - mdl-tabs__tab-bar
+mta:t - mdl-tabs__tab
+mta:tp - mdl-tabs__panel
+
+<!--============================
+=            Footer            =
+=============================-->
+
+mm:f - mdl-mega-footer
+mm:ft - mdl-mega-footer__top-section
+mm:fl - mdl-mega-footer__left-section
+mm:fs - mdl-mega-footer__social-btn
+mm:fr - mdl-mega-footer__right-section
+mm:fm - mdl-mega-footer__middle-section
+mm:fd - mdl-mega-footer__drop-down-section
+mm:fh - mdl-mega-footer__heading
+mm:fll - mdl-mega-footer__link-list
+mm:fb - mdl-mega-footer__bottom-section
+mmi:f - mdl-mini-footer
+mmi:fl - mdl-mini-footer__left-section
+mmi:fll - mdl-mini-footer__link-list
+mmi:fr - mdl-mini-footer__right-section
+mmi:fs - mdl-mini-footer__social-btn
+
+<!--===========================
+=            List            =
+============================-->
+
+mli:s - mdl-list
+mli:i - mdl-list__item
+mli:it - mdl-list__item--two-line
+mli:ith - mdl-list__item--three-line
+mli:ip - mdl-list__item-primary-content
+mli:ia - mdl-list__item-avatar
+mli:ii - mdl-list__item-icon
+mli:is - mdl-list__item-secondary-content
+mli:isi - mdl-list__item-secondary-info
+mli:isa - mdl-list__item-secondary-action
+mli:itb - mdl-list__item-text-body
+
+<!--==============================
+=            Progress            =
+===============================-->
+
+mp:i - mdl-progress--indeterminate
+
+<!--=============================
+=            Spinner            =
+==============================-->
+
+ms:p - mdl-spinner
+ms:sc - mdl-spinner--single-color
+
+<!--==========================
+=            Menu            =
+===========================-->
+
+me:n - mdl-menu
+me:i - mdl-menu__item
+me:f - mdl-menu__item--full-bleed-divider
+me:t - mdl-menu--top-left
+me:tr - mdl-menu--top-right
+me:b - mdl-menu--bottom-right
+
+<!--============================
+=            Slider            =
+=============================-->
+
+mr:s - mdl-slider
+
+<!--==============================
+=            Snackbar            =
+===============================-->
+
+mn:a - mdl-snackbar
+mn:t - mdl-snackbar__text
+mn:ac - mdl-snackbar__action
+mn:at - mdl-snackbar--active
+
+<!--==============================
+=            Checkbox            =
+===============================-->
+
+mk:b - mdl-checkbox
+mk:i - mdl-checkbox__input
+mk:l - mdl-checkbox__label
+
+<!--===========================
+=            Radio            =
+============================-->
+
+mo:r - mdl-radio
+mo:rb - mdl-radio__button
+mo:rl - mdl-radio__label
+mo:re - mdl-js-ripple-effect
+
+<!--=================================
+=            Icon toggle            =
+==================================-->
+
+mic:o - mdl-icon-toggle
+mic:i - mdl-icon-toggle__input
+mic:l - mdl-icon-toggle__label
+
+<!--============================
+=            Switch            =
+=============================-->
+
+mw:i - mdl-switch
+mw:in - mdl-switch__input
+mw:l - mdl-switch__label
+
+<!--===========================
+=            Table            =
+============================-->
+
+mda:t - mdl-data-table
+mda:s - mdl-data-table--selectable
+mda:hs - mdl-data-table__header--sorted-ascending
+mda:hd - mdl-data-table__header--sorted-descending
+mda:c - mdl-data-table__cell--non-numeric
+
+<!--===============================
+=            Textfield            =
+================================-->
+
+mx:t - mdl-textfield
+mx:i - mdl-textfield__input
+mx:l - mdl-textfield__label
+mx:f - mdl-textfield--floating-label
+mx:e - mdl-textfield__error
+mx:ex - mdl-textfield__expandable
+mx:h - mdl-input__expandable-holder
+
+<!--=============================
+=            Tooltip            =
+==============================-->
+
+moo:l - mdl-tooltip
+moo:a - mdl-tooltip--large
+moo:e - mdl-tooltip--left
+moo:r - mdl-tooltip--right
+moo:t - mdl-tooltip--top
+moo:b - mdl-tooltip--bottom
+
+/*==================================
+=            Typography            =
+==================================*/
+
+mt:b1 - mdl-typography--body-1
+mt:b1f - mdl-typography--body-1-force-preferred-font
+mt:b2 - mdl-typography--body-2
+mt:b2c - mdl-typography--body-2-color-contrast
+mt:b2f - mdl-typography--body-2-force-preferred-font
+mt:b - mdl-typography--button
+mt:c - mdl-typography--caption
+mt:cc - mdl-typography--caption-color-contrast
+mt:d1 - mdl-typography--display-1
+mt:d1c - mdl-typography--display-1-color-contrast
+mt:d2 - mdl-typography--display-2
+mt:d3 - mdl-typography--display-3
+mt:d4 - mdl-typography--display-4
+mt:h - mdl-typography--headline
+mt:m - mdl-typography--menu
+mt:s - mdl-typography--subhead
+mt:sc - mdl-typography--subhead-color-contrast
+mt:ts - mdl-typography--table-striped
+mt:tc - mdl-typography--text-center
+mt:tj - mdl-typography--text-justify
+mt:tl - mdl-typography--text-left
+mt:tr - mdl-typography--text-right
+mt:tca - mdl-typography--text-capitalize
+mt:tlo - mdl-typography--text-lowercase
+mt:tu - mdl-typography--text-uppercase
+mt:tn - mdl-typography--text-nowrap
+mt:t - mdl-typography--title
+mt:tcc - mdl-typgraphy--title-color-contrast
+
+
+<!--=================================
+=            State Hooks            =
+==================================-->
+
+is:a - is-active
+is:i - is-invalid
+
+<!--========================
+=            JS            =
+=========================-->
+
+mj:b - mdl-js-button
+mj:r - mdl-js-ripple-effect
+mj:l - mdl-js-layout
+mj:ta - mdl-js-tabs
+mj:p - mdl-js-progress
+mj:s - mdl-js-spinner
+mj:m - mdl-js-menu
+mj:sl - mdl-js-slider
+mj:c - mdl-js-checkbox
+mj:r - mdl-js-radio
+mj:i - mdl-js-icon-toggle
+mj:s - mdl-js-switch
+mj:dt - mdl-js-data-table
+mj:t - mdl-js-textfield
+
+<!--=========================
+=            Etc            =
+==========================-->
+
+mi:c - material-icons
+mlo:g - mdl-logo
+
+-->
+]]></content>
+  <tabTrigger>helpmdl</tabTrigger>
+  <scope>text.plain, text.html, text.jade, text.pug</scope>
+</snippet>

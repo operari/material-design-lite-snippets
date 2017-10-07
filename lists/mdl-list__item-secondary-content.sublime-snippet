@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+mdl-list__item-secondary-content
+]]></content>
+  <tabTrigger>mli:is</tabTrigger>
+  <scope>text.html, text.jade, text.pug, source.css, source.scss, source.sass</scope>
+</snippet>

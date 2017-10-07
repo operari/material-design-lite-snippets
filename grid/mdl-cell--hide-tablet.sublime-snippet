@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+mdl-cell--hide-tablet
+]]></content>
+  <tabTrigger>mc:ht</tabTrigger>
+  <scope>text.html, text.jade, text.pug, source.css, source.scss, source.sass</scope>
+</snippet>

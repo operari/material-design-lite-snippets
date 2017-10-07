@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+mdl-checkbox__label
+]]></content>
+  <tabTrigger>mk:l</tabTrigger>
+  <scope>text.html, text.jade, text.pug, source.css, source.scss, source.sass</scope>
+</snippet>

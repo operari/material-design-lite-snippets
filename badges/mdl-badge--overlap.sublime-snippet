@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+mdl-badge--overlap
+]]></content>
+  <tabTrigger>ma:o</tabTrigger>
+  <scope>text.html, text.jade, text.pug, source.css, source.scss, source.sass</scope>
+</snippet>

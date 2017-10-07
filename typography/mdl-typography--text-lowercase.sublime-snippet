@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+mdl-typography--text-lowercase
+]]></content>
+  <tabTrigger>mt:tlo</tabTrigger>
+  <scope>text.html, text.jade, text.pug, source.css, source.scss, source.sass</scope>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+mdl-layout__tab-panel
+]]></content>
+  <tabTrigger>ml:tp</tabTrigger>
+  <scope>text.html, text.jade, text.pug, source.css, source.scss, source.sass</scope>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+data-badge="value"
+]]></content>
+  <tabTrigger>ma:d</tabTrigger>
+  <scope>text.html, text.jade, text.pug</scope>
+</snippet>

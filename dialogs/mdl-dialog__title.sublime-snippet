@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+mdl-dialog__title
+]]></content>
+  <tabTrigger>md:t</tabTrigger>
+  <scope>text.html, text.jade, text.pug, source.css, source.scss, source.sass</scope>
+</snippet>

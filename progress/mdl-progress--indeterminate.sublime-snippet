@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+mdl-progress--indeterminate
+]]></content>
+  <tabTrigger>mp:i</tabTrigger>
+  <scope>text.html, text.jade, text.pug, source.css, source.scss, source.sass</scope>
+</snippet>

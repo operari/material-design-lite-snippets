@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+mdl-shadow--${1}dp
+]]></content>
+  <tabTrigger>mca:d</tabTrigger>
+  <scope>text.html, text.jade, text.pug, source.css, source.scss, source.sass</scope>
+</snippet>

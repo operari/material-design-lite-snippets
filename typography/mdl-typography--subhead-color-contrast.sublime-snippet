@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+mdl-typography--subhead-color-contrast
+]]></content>
+  <tabTrigger>mt:sc</tabTrigger>
+  <scope>text.html, text.jade, text.pug, source.css, source.scss, source.sass</scope>
+</snippet>

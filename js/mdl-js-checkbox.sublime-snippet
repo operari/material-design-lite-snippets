@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+mdl-js-checkbox
+]]></content>
+  <tabTrigger>mj:c</tabTrigger>
+  <scope>text.html, text.jade, text.pug, source.css, source.scss, source.sass</scope>
+</snippet>

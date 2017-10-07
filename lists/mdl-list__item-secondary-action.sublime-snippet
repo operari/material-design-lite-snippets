@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+mdl-list__item-secondary-action
+]]></content>
+  <tabTrigger>mli:isa</tabTrigger>
+  <scope>text.html, text.jade, text.pug, source.css, source.scss, source.sass</scope>
+</snippet>
